@@ -1,4 +1,4 @@
-# Session : 11                  
+# Session : 3                  
 
 # Basic Architecture
 
@@ -49,7 +49,7 @@ Estimated Total Size (MB): 0.24
 - Loading of MNIST Train and test dataset
 - Training of model on MNIST datset
 - Testing of model 
-  - Optimizer : SGD
+  - Optimizer : Stochastic Gradient Descent(SGD)
   - Batch Size : 30
   - Epoch : 18
   - Learning Rate : 0.01
@@ -57,6 +57,6 @@ Estimated Total Size (MB): 0.24
   
   ## Results
   
-  - Achieved Highest test accuracy of  99.36
+  - Achieved Highest test accuracy of  99.36%
   - Model was not Overfitting
   
